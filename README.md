@@ -1,2 +1,4 @@
 # javaExperiment
-大二java实验报告
+Jinan University Java curriculum experiment project
+
+暨南大学Java实验报告
